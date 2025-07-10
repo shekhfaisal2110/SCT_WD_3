@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "JQuery", "CSS", "XML"],
+    "answer": ["CSS"],
+    "type": "single"
+  },
+  {
+    "id": 2,
+    "question": "Select all JavaScript frameworks:",
+    "options": ["React", "Laravel", "Vue", "Tailwind"],
+    "answer": ["React", "Vue"],
+    "type": "multi"
+  },
+  {
+    "id": 3,
+    "question": "HTML stands for _____?",
+    "answer": ["Hyper Text Markup Language"],
+    "type": "fill"
+  }
+]
